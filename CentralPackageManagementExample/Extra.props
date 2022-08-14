@@ -1,0 +1,5 @@
+<Project>
+	<ItemGroup>
+		<PackageReference Include="DotNetAnalyzers.DocumentationAnalyzers" />
+	</ItemGroup>
+</Project>
