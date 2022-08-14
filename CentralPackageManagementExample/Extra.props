@@ -1,5 +1,5 @@
 <Project>
 	<ItemGroup>
-		<PackageReference Include="DotNetAnalyzers.DocumentationAnalyzers" />
+		<PackageReference Include="DotNetAnalyzers.DocumentationAnalyzers" PrivateAssets="all" />
 	</ItemGroup>
 </Project>
